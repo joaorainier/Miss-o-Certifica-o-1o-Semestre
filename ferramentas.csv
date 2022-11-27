@@ -1,0 +1,16 @@
+Código,Descrição,Fabricante,Voltagem,Part Number,Tamanho,Unidade de medida,Tipo,Material,Tempo máx
+FER-1,Chave Phillips,Tramontina,0,TF002,10,cm,Chave de Fenda,Metal,12 horas
+FER-2,Chave Pozidriv,Tramontina,0,TF004,10,cm,Chave de Fenda,Metal,12 horas
+FER-3,Chave Allen,Tramontina,0,TF005,10,cm,Chave de Fenda,Metal,12 horas
+FER-4,Chave Robertson,Tramontina,0,TF006,10,cm,Chave de Fenda,Metal,12 horas
+FER-5,Chave Tri-Wing,Tramontina,0,TF007,10,cm,Chave de Fenda,Metal,12 horas
+FER-6,Chave Spanner,Tramontina,0,TF008,10,cm,Chave de Fenda,Metal,12 horas
+FER-7,Chave Torq-Set,Tramontina,0,TF009,10,cm,Chave de Fenda,Metal,12 horas
+FER-8,Chave Multidentada,Tramontina,0,TF010,10,cm,Chave de Fenda,Metal,12 horas
+FER-9,Furadeira de Impacto,Bosch,220v,BO001,30,cm,Furadeira,Metal,24 horas
+FER-10,Furadeira de Bancada,Bosch,220v,BO002,30,cm,Furadeira,Metal,24 horas
+FER-11,Parafusadeira,Bosch,220v,BO03,30,cm,Parafusadeira,Metal,24 horas
+FER-12,Alicate,Tramontina,0,TA001,20,cm,Alicate,Metal,24 horas
+FER-13,Serra de Bancada,Einhell,220v,EI001,90,cm,Serra,Metal,24 horas
+FER-14,Serra de Bancada,Einhell,220v,EI002,90,cm,Serra,Madeira,24 horas
+FER-15,Alicate de Prensa,Hikarl,0,HI001,20,cm,Alicate,Plastico,24 horas
