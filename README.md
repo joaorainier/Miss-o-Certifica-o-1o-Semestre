@@ -12,5 +12,6 @@ Na Janela Cadastrar Técnicos temos a visualização de todos os técnicos cadas
 Na Janela Cadastrar Ferramentas temos a visualização de todas as ferramentas cadastradas, um botão de busca onde podemos procurar pelo nome das ferramentas, um botão de Cadastrar onde são colocados os dados para cadastro das ferramentas como Código da ferramenta (chave primária), Descrição da Ferramenta, Fabricante, Voltagem de uso, Part Number, Tamanho, Unidade de Medida, Tipo da ferramenta e  Material da ferramenta. Um botão para Editar os cadastros já feitos. Um botão para Excluir os cadastros selecionados. E temos também um botão para Exportar para o seu computador a lista de ferramentas em formato .xlsx.
 
 Para executar a aplicação que foi feita em Python 3.10 devemos importar as seguintes bibliotecas: csv, openpyxl, tkinter e pandas.
+
 Link para apresentação em vídeo no YouTube:
 https://youtu.be/p5HLlo2SFsE
